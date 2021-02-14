@@ -10,5 +10,5 @@ clone the repo
 # how to join it 
 the linces is under MIT 
 # deployed
-
+[fadhaa89.github.io/porfolio-1st](https://fadhaa89.github.io/portfolio-1st/)
 # repo
