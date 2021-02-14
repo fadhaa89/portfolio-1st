@@ -12,3 +12,4 @@ the linces is under MIT
 # deployed
 [fadhaa89.github.io/porfolio-1st](https://fadhaa89.github.io/portfolio-1st/)
 # repo
+[https://github.com/fadhaa89/portfolio-1st](https://github.com/fadhaa89/portfolio-1st)
